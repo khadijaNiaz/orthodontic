@@ -44,6 +44,3 @@ consistency, and user experience across desktop screens.
 2.  Scroll through sections.
 3.  Observe spacing, alignment, and layout issues.
 
-## Attachment:
-
-home-ui-issues.png (upload manually)
